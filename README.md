@@ -1,7 +1,7 @@
 # Coding-Ninjas-Competitive-Programming
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=100> <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width=200>
+<img src="https://camo.githubusercontent.com/716c20f454fef17485712c6bfda0f6343ac75983a673228c59aa3bf4076c9f99/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f63706c7573706c75732d6f726967696e616c2e737667" width=100> <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width=200>
 
 This Repository Contains all my codes which I wrote during the competitive programming course with <a href="https://www.codingninjas.com/">Coding Ninjas</a></br>
 (PS: For some of the questions you may like to check out the commit history to know how did I proceed step by step for that question)</br>
